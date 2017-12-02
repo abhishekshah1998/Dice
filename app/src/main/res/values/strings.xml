@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="button_text">Roll Dice</string>
+    <string name="credit">Made by Abhishek Shah</string>
+</resources>
